@@ -4,12 +4,12 @@
 
 ## Moduuli 1
 
-Tein tehtävät 1 ja kaikki menei sujuvasti.
+Tein tehtävät 1 : Tein ensimäinen python-ohjekman (hello.py)
+tein tehtävä  2 :tein GitHubin käyttäjätiilin itselle.Sitten luoin repositori python-harjoituksen kansioa varten GitHub-palvelussa.kokelin kaikki mainitut komennot kuin (COMMIT,PULL,PUSH,..)
 
 ## Moduuli 2
 
-Tein tehtävät 1, 2 ja 3.
 
-Tehtävän 4 tein osittain, mutta ongelmaksi jäi pelkkien grammojen laskeminen oikein.
+
 
 ## Moduuli 3 ja niin edelleen...
