@@ -2,7 +2,7 @@
 kuha_pituus=int(input("Anna kuhan pituus:"))
 alamittanen=37
 if kuha_pituus<alamittanen:
-    puutuu=alamittanen - kaha_pituus
+    puutuu=alamittanen - kuha_pituus
     print ("sinun pitäisi palautta kuha järveen koska sallitusta pyyntimitasta puuttuu"+ str(puutuu ))
 
 #Tehtävä_2
@@ -38,4 +38,16 @@ elif Sukupuoli=="mies" and Hemogolobiiniarvo>=195:
     print("hemogolobiiniarvo on korkea")
 elif Sukupuoli=="mies" and Hemogolobiiniarvo<=134:
     print("hemogolobiiniarvo on alhainen")
+
+#Tehtävä_4
+
+vuosiluku=int(input("anna vuosiluku: "))
+if vuosiluku %4==0 and vuosiluku %100 !=0:
+    print(str(vuosiluku),"on karkausvuosi")
+elif vuosiluku %100==0 and vuosiluku %400==0:
+    print(str(vuosiluku),"on karkausvuosi")
+else:
+    print (str(vuosiluku),"ei karkausvuosi")
+
+
 
