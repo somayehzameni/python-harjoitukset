@@ -22,3 +22,6 @@ Tein tehtävä 1,2,3,4.Ne liittyvät valintarakenneeseen.
 ## Moduuli 5
 Tein tehtävä 1,2,3,4,5,6.
 tehtävä 6 oli vähän monimutkainen,kuitenkin yriti tehdä tätä.
+## Moduuli 6
+Tein tehtävä 1,2,3,4
+
