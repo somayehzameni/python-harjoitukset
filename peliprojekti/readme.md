@@ -5,7 +5,7 @@ Maapäällinen elämä(pelastusoperatio)
  Somayeh Zameni
 
 # Pelin kuvasu:
-"Tämä peli on tekstiseikailupeli. Pelin aihe liittyy kestävään kehitykseen. Aiheen tarkoituksena on suojella maaekosysteemejä, palauttaa niitä ennalleen ja edistää niiden kestävää käyttöä; edistää metsien kestävää käyttöä; taistella aavikoitumista vastaan; pysäyttää maaperän köyhtyminen ja luonnon monimuotoisuuden häviäminen. 
+Tämä peli on tekstiseikailupeli. Pelin aihe liittyy kestävään kehitykseen. Aiheen tarkoituksena on suojella maaekosysteemejä, palauttaa niitä ennalleen ja edistää niiden kestävää käyttöä; edistää metsien kestävää käyttöä; taistella aavikoitumista vastaan; pysäyttää maaperän köyhtyminen ja luonnon monimuotoisuuden häviäminen. 
 
 # Käyttöohjeet:
 
