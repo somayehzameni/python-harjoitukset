@@ -24,4 +24,7 @@ Tein tehtävä 1,2,3,4,5,6.
 tehtävä 6 oli vähän monimutkainen,kuitenkin yriti tehdä tätä.
 ## Moduuli 6
 Tein tehtävä 1,2,3,4
+## Moduuli 7
+Tein tehtävä 1,2,3,4,5,6.
+Lisäksi tein tehtävä 2,3 kahdella tavalla harjoituksen varten.
 
