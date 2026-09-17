@@ -20,3 +20,7 @@ Tämä peli on tekstiseikailupeli. Pelin aihe liittyy kestävään kehitykseen. 
 
 # 3:
 #Valitsemalla numero_1 eri reittiä avautuu.
+
+# Pelinprojektti_3:
+
+#Tässä vaiheessa minä määrittelin muutaman funktion pelille.Esimekkinä yksi funktio on kutsuttu, kun halutaan valita päävalkoista sopivaa vaihtoehtoa. Joissa tilanteissa yhden funktion sisällä on käytetty toista funktiota,tioisin sanoen ne ovet yhteydessä. Määrittelin myös yksi funktio,joka saa parametrina ja argumenttina listan.
