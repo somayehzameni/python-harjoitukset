@@ -1,0 +1,5 @@
+Tämä peli on tekstiseikailupeli. Peli etenee vain valitsemalla valikoista sinun haluaman numeron.
+Tässä pelissä on olemassa kaksi eri reittiä .
+Sinun komento määrittää pelin polkua, sillä tekee päätöstä huolellisesti.
+Jos valitse vahingossa väärän syötteen, peli pyytää sinua syöttämään oikean syötteen.
+Sinun tavoite on tehtä paras päätös, joka auttaa pelastamaan maapallon.
